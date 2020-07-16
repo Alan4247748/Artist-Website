@@ -9,4 +9,4 @@ The aim of uploading this is to also start to improve // edit aspects of the web
 
 Also, I will soon be adding a JP5 (Java Processing) interface I am designing to the website. 
 
-I'm a young, dumb, lost programmer. So if any of these is confusing, clunky, etc. its because I am self-teaching all of this. 
+I'm a young, dumb, & lost programmer. So if any of these is confusing, clunky, etc. its because I am self-learning all of this through good old trial & error. 
